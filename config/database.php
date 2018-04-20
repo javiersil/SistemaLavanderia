@@ -67,7 +67,7 @@ return [
 
         'pgsql' => [
             'driver'   => 'pgsql',
-            'host'     => 'ec2-54-204-21-226.compute-1.amazonaws.com',
+            'host'     => 'localhost',
             'database' => 'd4p7i2gcda5a9p',
             'username' => 'ymihsaztmxfntr',
             'password' => '22924d1d54d5526a539155d08f2160511a6a621742f73b55422ca50c0019753f',
