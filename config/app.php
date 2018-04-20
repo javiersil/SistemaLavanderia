@@ -91,9 +91,9 @@ return [
     |
     */
 
-    'key' => 'mrs-sd-sfq-essd',
+    'key' => 'Ux2YAgsD43zU8EitVZYRKm31Yd29ZICs',
 
-    'cipher' => 'AES-256-CBC',
+    'cipher' => 'Ux2YAgsD43zU8EitVZYRKm31Yd29ZICs',
 
     /*
     |--------------------------------------------------------------------------
